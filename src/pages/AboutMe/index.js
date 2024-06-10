@@ -21,40 +21,30 @@ export default function SobreMim() {
             />
 
             <p className={styles.paragrafo}>
-                Oi, tudo bem? Eu sou instrutor de Front-end 
-                na Alura e estou feliz de te ver por aqui.
+            Olá, tudo bem? Eu sou o Lucas e sou Desenvolvedor Front-end na Neo.
             </p>
             <p className={styles.paragrafo}>
-                Minha história com programação começou no Instituto Federal do Piauí (IFPI), 
-                quando fiz o ensino médio integrado ao curso de Informática. Eu aprendi lógica 
-                de programação e o básico de várias linguagens, como PHP, Python, Java, mas 
-                sem aprofundar muito em cada uma delas. Eu gostava muito de estudar programação, 
-                mas na época não fazia ideia de que trabalharia com isso hoje.
+            Minha história com a programação começou nas Faculdades Integradas de Bauru (FIB), 
+            onde iniciei o curso de Ciência da Computação. Aprendi lógica de programação e os 
+            fundamentos de várias linguagens, como PHP, Python e Java, mas sem me aprofundar muito 
+            em nenhuma delas. Eu gostava muito de estudar programação, mas na época não imaginava 
+            que trabalharia com isso hoje.
             </p>
             <p className={styles.paragrafo}>
-                No ensino superior, escolhi cursar Engenharia Elétrica na Universidade Federal 
-                do Piauí (UFPI). Lá eu consegui entrar no PET (Programa de Educação Tutorial),
-                 um grupo acadêmico que contribui de diversas formas para o curso. Lá eu tive 
-                 a oportunidade de estudar desenvolvimento web para ser um dos mantenedores do 
-                 site deles.
+            Minha primeira oportunidade na área de tecnologia foi como estagiário de Analista de 
+            Qualidade. No início, foi um pouco difícil encontrar a chance de mudar de área, pois o 
+            time de engenharia dependia de mim para os testes, já que eu era o único QA da empresa. 
+            Além disso, não podia arriscar mudar de área ou de empresa, pois precisava do salário para 
+            pagar minha faculdade.
             </p>
             <p className={styles.paragrafo}>
-                Com isso tive minha experiência de dev mais próxima da realidade, com prazos 
-                de implementação para o site, e aprendi muito enquanto codificava.
-            </p>
-            <p className={styles.paragrafo}>
-                E foi enquanto eu estava no PET que decidi procurar um estágio em 
-                desenvolvimento web. Eu encontrei uma vaga na Alura para o Scuba Team 
-                e percebi que ela aliava duas paixões minhas: programação e educação. 
-                Para minha felicidade, fui escolhido para fazer parte do time.
-
-            </p>
-            <p className={styles.paragrafo}>
-                Desde então, tem sido aprenas aprendizados atrás de aprendizados. 
-                A Alura é uma escola não só para seus alunos e alunas, mas também 
-                para os colaboradores e colaboradoras. Hoje sou muito feliz de ter 
-                 oportunidade de trazer esses conteúdos ricos e encantadores para você. 
-                 Espero que aprenda bastante!
+            Com o tempo, as coisas foram melhorando e a empresa formou um time de qualidade. 
+            No meio do caminho, enfrentamos alguns problemas com a perda de clientes, o que causou 
+            a redução da equipe, mas conseguimos superar esses desafios. Com o time de qualidade 
+            estabilizado, recebi a oportunidade de mudar de área e comecei a atuar em desenvolvimento
+             front-end. Nesse novo papel, montamos centrais de atendimento "prontas" e as personalizamos
+              conforme as necessidades dos clientes. Também desenvolvemos bots na IBM Watson para 
+              WhatsApp e chat.
             </p>
         </PostModel>
     )
